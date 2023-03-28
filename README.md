@@ -1,4 +1,4 @@
-SUMMARY OF PROJECT  |
+SUMMARY OF PROJECT
 ____________________
 
 Our project is based on the idea of creating a singing buzzer.
